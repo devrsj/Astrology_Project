@@ -1,0 +1,1 @@
+[01-Jun-2021 17:25:56 Asia/Kathmandu] PHP Fatal error:  Cannot redeclare App\Http\Controllers\PayPalController::payment() in /home/gautambu/public_html/astro_guru/app/Http/Controllers/PaypalController.php on line 159
